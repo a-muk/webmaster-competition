@@ -1,0 +1,27 @@
+
+
+.nav-link:hover {
+    background-color: #525252 
+}
+
+.nav-link {
+    transition: all 0.8s
+}
+
+
+.lists{
+    font-size:20px;
+}
+
+
+
+.child-grade{
+    height:200px;
+    width:600px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background-color:red;
+    border-radius:70px 70px 70px 70px;
+}
